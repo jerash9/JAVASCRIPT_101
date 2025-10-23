@@ -3,20 +3,24 @@ console.log("Online!");
 
 // VARIABLES
 
-let myName = "Adrián";
+let myName = "Jerash";
 
-let surname = 'Cano';
+let surname = 'Fuente';
 
 
-let age = 35;
+let age = 20;
 
 let price = 12.99;
-
+// Cositas
+ console.log(3+"3");
+ console.log(4-"4");
+  
 
 
 let prices = [4.5, 7.99, 5, 2.70];
 
 console.log(prices[1]);
+
 
 
 let animals = ["dog", "cat", "cow", "fish"];
@@ -45,3 +49,7 @@ let user1574 = {
     },
     isDriver: true
 };
+
+console.log(user1574.name);
+//Deberes 
+//
