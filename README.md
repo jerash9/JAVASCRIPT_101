@@ -1,4 +1,6 @@
 # JAVASCRIPT_101
+
+Para evitar errores en la carga de los archivos de JS deberiamos cargarlos siempre al final del HTML justo antes de cerrar el <body>
 Para evitar errores en la carga de los archivos de JS deberiamos cargarlos ismpre al final del HTML justo antes de cerrar el body.
 
 ## VARIABLES DE JS
